@@ -56,7 +56,7 @@
 ## 🚀 Dự Án Tiêu Biểu
 
 ### 📚 [nhanambook — Hệ Thống Thương Mại Điện Tử & Quản Lý Nhà Sách Nhã Nam](https://github.com/thanhhosy0606-cell/nhanambook)
-> **Loại dự án**: Dự án nhóm (Phát triển cùng **Đào Anh Tú**)  
+> **Loại dự án**: Dự án nhóm gồm 5 thành viên
 > **Công nghệ & Ngôn ngữ sử dụng**: `Java 21`, `Spring Boot 3.3`, `Spring Data JPA / Hibernate`, `Spring Security Crypto (BCrypt)`, `RESTful API & Webhook`, `Thymeleaf`, `MySQL 8.0`, `Maven`, `PayOS Java SDK (VietQR)`, `MoMo Payment API`, `OAuth 2.0`, `Git/GitHub`, `Postman`.
 
 #### 👨‍💻 **Vai trò & Phần việc của Hồ Sỹ Thành trong dự án**:

@@ -7,7 +7,6 @@
 🎯 Đang tìm kiếm cơ hội **Thực tập sinh Java Backend (Spring Boot)** tại **Hà Nội**  
 
 [![Email](https://img.shields.io/badge/Email-thanhhossy0606%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhhossy0606@gmail.com)
-[![Phone](https://img.shields.io/badge/Điện_thoại-0974_932_089-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0974932089)
 [![Location](https://img.shields.io/badge/Địa_chỉ-Hà_Nội%2C_Việt_Nam-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>

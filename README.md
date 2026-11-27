@@ -50,4 +50,5 @@
 ## 🚀 Dự Án
 
 - 📚 **[nhanambook — Hệ Thống Thương Mại Điện Tử & Quản Lý Nhà Sách Nhã Nam](https://github.com/thanhhosy0606-cell/nhanambook)**
+- 📋 **[du_an_1 — Task Tracker: Ứng Dụng Quản Lý Công Việc (Java Core CLI)](https://github.com/thanhhosy0606-cell/du_an_1)**
 
